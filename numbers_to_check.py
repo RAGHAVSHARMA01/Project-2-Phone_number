@@ -1,1 +1,1 @@
-number = "+916239568524"
+number = "write your phone number with the country code"
